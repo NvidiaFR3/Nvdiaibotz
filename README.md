@@ -1,7 +1,7 @@
 # Nvdiaibotz
 Nvidia Botz By FR3
 
-====
+> Tentang Nvidia Botz
 
 Developer Nvidiabotz Adalah FR3 yang nama Aslinya Rendy Indra Peratama
 
